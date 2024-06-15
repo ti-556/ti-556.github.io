@@ -10,55 +10,58 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* Mechanical Engineering Major, Waseda University, 2026 (Expected)
+* Computer Science and Communications Engineering Minor, Waseda University, 2026 (Expected)
+* International Baccalaureate (IB) Diploma in Marist Brothers International School, 2022
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+* Dec 2023 ~ Now: Robotics Engineer Internship
+  * Company: [Tokyo Robotics](https://robotics.tokyo/)
+  * Duties: Implementing motions for Tokyo Robotics' logistics robot product ([GTC](https://robotics.tokyo/solutions/logistics/))
+  * Projects: Implementing and fine-tuning Open-X Embodiment on Tokyo Robotics' humanoid robot product ([Torobo](https://robotics.tokyo/products/torobo/))
+  * Skills: ROS, AWS Sagemaker, Docker
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* PyTorch
+* ROS
+  * Gazebo, Rviz, Moveit
+* Isaac Sim + Gym
+* AWS SageMaker
+  * EC2, S3, ECR
+* CAD
+  * Autodesk Fusion, KiCAD
+* Docker
+* Unreal Engine 5
+  
+Extracurriculars
+------
+* Co-founder of [Kuma Lab](https://www.kuma2024.tech/)
+  * Student-based community aiming to explore the field of machine intelligence
+* Member of the Waseda Micromouse Club
+  * Participating in micromouse competitions
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Honors
+------
+Caterpillar Scholarship
+* Associated Institutions: Caterpillar Inc.
+  * For excellence in math and sciences
+
+References
+------
+Prof. Yoichi Kato
+* Professor
+* Faculty of Science and Engineering, Global Center for Science and Engineering
+* School of Creative Science and Engineering
+* Waseda University
+* yoichi@aoni.waseda.jp
+
+Lin Jia-Yeu
+* Assistant Professor
+* Faculty of Science and Engineering, Global Center for Science and Engineering
+* School of Advanced Science and Engineering
+* Waseda University
+* erin@aoni.waseda.jp
+
