@@ -57,19 +57,19 @@ Personal Projects
 Honors
 ======
 <span style="font-size: 20px;">Caterpillar Scholarship</span>
-* Associated Institutions: Caterpillar Inc.
+* Associated Institutions: [Caterpillar Inc.](https://www.caterpillar.com/)
   * For excellence in math and sciences
 
 References
 ======
-<span style="font-size: 20px;">Prof. Yoichi Kato</span>
+<span style="font-size: 20px;">[Prof. Yoichi Kato](https://waseda.elsevierpure.com/en/persons/yoichi-kato)</span>
 * Professor
 * Faculty of Science and Engineering, Global Center for Science and Engineering
 * School of Creative Science and Engineering
 * Waseda University
 * Email: yoichi@aoni.waseda.jp
 
-<span style="font-size: 20px;">Lin Jia-Yeu</span>
+<span style="font-size: 20px;">[Lin Jia-Yeu](https://w-rdb.waseda.jp/html/100002991_en.html)</span>
 * Assistant Professor
 * Faculty of Science and Engineering, Global Center for Science and Engineering
 * School of Advanced Science and Engineering

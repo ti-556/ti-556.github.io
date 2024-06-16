@@ -21,8 +21,8 @@ My interests revolve around the following topics:
 Here are some topics I hope to study in the near future:
 * Hierarchical Reinforcement Learning
 * Multi-Agent Reinforcement Learning
-* Meta Learning
 * Generative Models
+* Biomimetics
 
 I'm always eager to connect with like-minded individuals and welcoming discussions on any of the topics listed above at any time. Please feel free to reach out from my socials🍵
 
