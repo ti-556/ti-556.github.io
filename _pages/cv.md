@@ -34,7 +34,7 @@ Skills
 * CAD
   * Autodesk Fusion, KiCAD
 * Docker
-* Unreal Engine 5
+* Unreal Engine
   
 Extracurriculars
 =======
