@@ -40,6 +40,7 @@ Extracurriculars
 =======
 * <span style="font-size: 20px;">Co-founder of [Kuma Lab](https://www.kuma2024.tech/)</span>
   * Student-based community aiming to explore the field of machine intelligence
+  * Hosting paper reading sessions and hands-on events
 
 Personal Projects
 ======
